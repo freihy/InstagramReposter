@@ -1,0 +1,23 @@
+{
+    "discord": {
+        "token": "discord_bot_token_here",
+        "prefix": "$",
+        "refresh": 60,
+        "channel_ids": {
+            "default" : 0000,
+            "#match_2nd" : 0000,
+        }
+    },
+    
+    "instagram": {
+        "u": "base64encoded_username",
+        "p": "base64encoded_password",
+        "target_account": "9gag",
+        "first_post_directory_name" : "first_post_resources"
+    },
+
+    "firebase": {
+        "certificate_json": "firebase_certificate.json",
+        "cred_obj": "abc"
+    }
+}
